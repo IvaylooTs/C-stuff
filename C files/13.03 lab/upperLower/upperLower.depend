@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1678713639 source:c:\users\user\desktop\c files\13.03 lab\upperlower\main.c
+	<stdio.h>
+	"upperlower_H.h"
+
+1678712418 source:c:\users\user\desktop\c files\13.03 lab\upperlower.c
+	<stdio.h>
+
+1678712235 source:c:\users\user\desktop\c files\13.03 lab\upperlower\upperlower.c
+	<stdio.h>
+
+1678713639 c:\users\user\desktop\c files\13.03 lab\upperlower\upperlower_h.h
+

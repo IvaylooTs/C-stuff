@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1682602542 source:c:\users\user\desktop\c files\27.04 lab\27.04\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+

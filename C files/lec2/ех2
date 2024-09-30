@@ -1,0 +1,15 @@
+int main()
+{
+    double d;
+    float f;
+    long l;
+    int i;
+    short s;
+    i = l = f = d = 100/3; PRINT4(i,l,f,d);
+    // shte vurne 33,00000000 8 nuli
+    d = f = l = i = 100/3; PRINT4(i,l,f,d);
+    // 33,3
+    i = l = f = d = 100/3; PRINT4(i,l,f,d);
+    d = f = l = i = (double)100/3;
+    // prisvoqvaneto stava ot dqsno nalqwo
+}

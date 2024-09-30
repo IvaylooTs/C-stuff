@@ -1,0 +1,36 @@
+л.у.
+Borislav.Vakrilov@gmail.com
+089015 6123
+
+broini sistemi
+
+bin - 0/1
+desetichna - 0-9
+16tichna (Hex)- 0-9 a-f(koito opisvat chislata 10-15)
+
+
+V(10) - V(bin)
+
+10:2 = 0 (ostatuk)
+5:2 = 1
+2:2 = 0
+1:2 = 1   
+
+=> 1010 zapis na 10 v dvuichen vid
+
+V(10) = V(16)
+
+10:16 = A
+
+1024 = 2^10 = 4*256 
+		    100 (Hex)
+
+0xFFFFFF(FF  bait) 
+
+Tipove danni - 
+
+char - 1 Bait (8 bit)
+short - 2 Bait
+int - 4 bait
+long - 8 bait
+double = 16 bait

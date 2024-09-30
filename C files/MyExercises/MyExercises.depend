@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1676537916 source:c:\users\user\desktop\c files\myexercises\hello_world.c
+	<stdio.h>
+
+1676553637 source:c:\users\user\desktop\c files\myexercises\printingexcapesequences.c
+	<stdio.h>
+
